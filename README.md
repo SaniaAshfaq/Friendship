@@ -1,2 +1,2 @@
 This is my first github repsoitry
-Author : sania Ashfaq.
+Author : sania Ashfaq Ahmed.
